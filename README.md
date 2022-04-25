@@ -1,4 +1,5 @@
 # MyLife
+<<<<<<< HEAD
 
 MyLife BackEnd
 
@@ -31,3 +32,6 @@ $ npm stop
 
 
 [egg]: https://eggjs.org
+=======
+生活简单记录 配合notion食用
+>>>>>>> 170f29aaa50f8d49f4e9bb2fb051f75a49837699
